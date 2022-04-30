@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome!
+## Hi there 👋 Welcome to portfolioshop!
 
 Welcome to portfolioshop! Here, we build custom portfolios for you. 
 Please head over to [our website](https://www.portfolioshop.tech) to try it out, if you haven't yet.
